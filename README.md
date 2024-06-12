@@ -110,7 +110,7 @@ let products = [
 ];
 ```
 
-###Coupons
+### Coupons
 
 Stored in an array:
 ```js
