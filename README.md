@@ -169,7 +169,7 @@ curl -X POST http://localhost:5000/api/v1/coupon/applyDiscount -H "Content-Type:
 
 ## PostMan Link 
 
-### Postman Link For Collection -
+### Collection Link -
     https://api.postman.com/collections/32409949-a00d778f-d5c1-45f8-b76d-e0773ab0411c?access_key=PMAT-01J05FZEMV2RJX4MXVRCT162CM
 
 
